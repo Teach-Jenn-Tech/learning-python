@@ -1,27 +1,24 @@
-![YouTube Thumbnail for Learning TypeScript Livestream with book cover and photo of Josh Goldberg and Jenn Junod](https://user-images.githubusercontent.com/77285384/213764058-afaee6da-2057-43a6-9e36-f5f5ee467997.png)
+![YouTube Thumbnail for AlSweigart’s Automate the Boring Stuff with Python book with photo of laura_e_langdon and jenn junod](https://user-images.githubusercontent.com/77285384/213795032-77059b3f-81f1-4787-9d8d-57058408a721.png)
 
-# Learning TypeScript w/ Josh Goldberg
+
+# Learning Python with Laura Langdon
 
 ✨Hello beaufitul human! ✨
 
-You have heard a lot of love and/or irritation towards TypeScript 🤷🏻‍♀️ In this series Josh Goldberg, the author of Learning TypeScript, joins Jenn from Teach Jenn Tech to teach about TypeScript to Jenn, who is a super newb.
+Are you new to the tech world and wondering what language you should learn? 🤷🏻‍♀️ Me too! 
 
-For the most part, you'd want to have a good understanding of some JavaScript frameworks... Jenn does not have the usual prerequisites of a deep understanding of JavaScript, which makes this adventure even more accessible for those breaking into tech and frustrating for those who already know TypeScript! 🤣
+In this series Laura Langdon joins Jenn from [Teach Jenn Tech](https://teachjenntech.com/) to teach about Python to Jenn, using Al Sweigart’s book [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-Join us every other Friday as we breakdown what Jenn doesn't understand from each chapter and Josh and Jenn work through the chapters' project together. 
+This series is great for those who have never coded before or learning a new language! 
 
-- Useful Links [Learning TypeScript Book](https://www.oreilly.com/library/view/learning-typescript/9781098110321/) | [Chapter Projects](https://www.learningtypescript.com/projects) | [Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript) 
+Join us every other Friday as we break down what Jenn doesn't understand from each chapter, and Laura and Jenn work through the chapters' tests together. 
 
-
-
+- Useful Links [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 
 ## Module Breakdowns
-- ### Chapter 1: From JavaScript to TypeScript
-  - [The Typeinator Project](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/)
-    - If you're not a fan at classes, skip this project 
-  - [Chapter 1 Livestream](https://youtu.be/K710B5oMYAU)
-- ### Chapter 2: The Type System 
-  - Will air on Feb 3rd, 2023
+- ### Chapter 1: [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+  - Will air on January 27th, 2023
   - [Join live on Teach Jenn Tech Twitch](https://www.twitch.tv/jennjunod)
   - [Watch Recording on Teach Jenn Tech YouTube](https://www.youtube.com/channel/UCOYqYy7ebj5j63TbdGB-Lcg)
+
